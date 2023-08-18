@@ -20,9 +20,9 @@ Present a collection of functions and processes representing a very common workf
 
 3. Point of interest selection (PI) and closest stations (CS) calculations and geographic representation with folium.
    
-   * NOTE: github does not allow html display, as jupyter notebooks are hosted as an static file in the repository section, therfore the folium code will be commented and replace for graphical display with geopandas visualization. Nevertheless here are the html files for the two maps, my_map_location, with the initially point of interest and my_final_map.html, were are the geographical elements calculated through the previous steps:
+   * NOTE: github does not allow html display, as jupyter notebooks are hosted as an static file in this repository, therfore the folium code will be commented and replace for graphical display with geopandas visualization. Nevertheless in this repository you'll find the html files for the two maps (my_map_location, with the initially point of interest and my_final_map.html, with the geographical elements calculated through the previous steps) and an interactive version of the jupyter notebook hosted in binder:
      
-      * [localización inicial](folium_maps/my_map_location.html)
+      * 
   
 
 5. Requests of climate data through API interaction.
