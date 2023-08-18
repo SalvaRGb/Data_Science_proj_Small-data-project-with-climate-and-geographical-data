@@ -3,4 +3,4 @@ Data science project
 
 
 ```html
-<iframe src="folium_maps/my_final_map_.html" width="200" height="200"></iframe>
+<object data="folium_maps/my_final_map_.html" width="200" height="200"></iframe>
