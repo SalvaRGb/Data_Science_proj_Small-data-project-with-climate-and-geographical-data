@@ -19,7 +19,8 @@ Present a collection of functions and processes representing a very common workf
 2. Defining access variables.
 
 3. Point of interest selection (PI) and closest stations (CS) calculations and geographic representation with folium.
-  . NOTE: github does not allow html display, as jupyter notebooks are hosted as an static file, therfore the folium code will be commented and replace for graphical display with geopandas visualization
+   
+*  NOTE: github does not allow html display, as jupyter notebooks are hosted as an static file, therfore the folium code will be commented and replace for graphical display with geopandas visualization
 
 5. Requests of climate data through API interaction.
 
