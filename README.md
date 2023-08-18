@@ -1,4 +1,4 @@
-# SalvaRGb-Small-data-project-with-climate-and-geographical-data
+# Small-data-project-with-climate-and-geographical-data
 Data science project
 
 In this notebook, an evaluation of climate data will be carried out from the database of the Spanish Meteorological Agency, [AEMET](https://www.aemet.es/es/datos_abiertos), specifically a time series of precipitation and temperature provided by this entity and coming from any of the active meteorological stations closest to a certain point or point of interest. 
