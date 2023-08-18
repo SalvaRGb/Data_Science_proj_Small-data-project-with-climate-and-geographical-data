@@ -19,13 +19,14 @@ Present a collection of functions and processes representing a very common workf
 2. Defining access variables.
 
 3. Point of interest selection (PI) and closest stations (CS) calculations and geographic representation with folium.
+  . NOTE: github does not allow html display, as jupyter notebooks are hosted as an static file, therfore the folium code will be commented and replace for graphical display with geopandas visualization
 
-4. Requests of climate data through API interaction.
+5. Requests of climate data through API interaction.
 
-5. Data processing and application of the necessary transformations. 
+6. Data processing and application of the necessary transformations. 
 
-6. Figure generation to graphically describe the evolution of temperature and rainfall variables within a previously selected time frame.
+7. Figure generation to graphically describe the evolution of temperature and rainfall variables within a previously selected time frame.
 
-7. Automation of the comparative analysis to assess whether there have been significant changes in rainfall between the different years of dataset coverage.
+8. Automation of the comparative analysis to assess whether there have been significant changes in rainfall between the different years of dataset coverage.
 
-8. Conclusions 
+9. Conclusions 
