@@ -2,5 +2,30 @@
 Data science project
 
 
-```html
-<object data="folium_maps/my_final_map_.html" width="200" height="200"></iframe>
+**Introduction**
+
+In this notebook, an evaluation of climate data will be carried out from the database of the Spanish Meteorological Agency, [AEMET](https://www.aemet.es/es/datos_abiertos), specifically a time series of precipitation and temperature provided by this entity and coming from any of the active meteorological stations closest to a certain point or point of interest. 
+
+This information provided by AEMET for users is done through an API for public use and accessible through API-KEY, so to reproduce this code it will be necessary to register [here](https://opendata.aemet.es/centrodedescargas/altaUsuario).
+
+**Objective**
+
+Present a collection of functions and processes representing a very common workflow of a data science project, from extraction, to data transformation, figures generation and some preliminar statistic analysis, within the context of climate change and geographical data. 
+
+**Methodology**
+
+1. Import libraries.
+
+2. Defining access variables.
+
+3. Point of interest selection (PI) and closest stations (CS) calculations and geographic representation with folium.
+
+4. Requests of climate data through API interaction.
+
+5. Data processing and application of the necessary transformations. 
+
+6. Figure generation to graphically describe the evolution of temperature and rainfall variables within a previously selected time frame.
+
+7. Automation of the comparative analysis to assess whether there have been significant changes in rainfall between the different years of dataset coverage.
+
+8. Conclusions 
