@@ -15,11 +15,15 @@ Present a collection of functions and processes representing a very common workf
 
 2. Defining access variables.
 
-3. Map display with folium: point of interest selection (PI) and closest stations (CS):
+3. Map display with folium: point of interest selection (PI) and closest station (CS):
 
    * Point of interest
      
-    ![](folium_maps/point_of_interest.gif) 
+    ![](folium_maps/point_of_interest.gif)
+
+    * Closest station
+     
+    ![](folium_maps/all_geo_elements.gif) 
 
 5. Requests of climate data through API interaction.
 
@@ -31,4 +35,4 @@ Present a collection of functions and processes representing a very common workf
 
 9. Conclusions
 
-* **NOTE**: github does not allow html display, as jupyter notebooks are hosted as an static file in git repos. Nevertheless in this repository you'll find the html files for the two maps (point_of_interest.html, with the initial point of interest all_geo_elements.html, with the geographical elements calculated through the previous steps) and an interactive version of the jupyter notebook hosted in binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Data_Science_proj_Small-data-project-with-climate-and-geographical-data/master?labpath=Small%20data%20project%20with%20climate%20and%20geographical%20data.ipynb)
+* **NOTE**: github does not allow html display, as jupyter notebooks are hosted as an static file in git repos. Nevertheless in this repository you'll find the html files for the two maps (point_of_interest.html, with the initial point of interest, and all_geo_elements.html, with the closest station and the rest geographical elements calculated through the previous steps) and an interactive version of the jupyter notebook hosted in binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Data_Science_proj_Small-data-project-with-climate-and-geographical-data/master?labpath=Small%20data%20project%20with%20climate%20and%20geographical%20data.ipynb)
