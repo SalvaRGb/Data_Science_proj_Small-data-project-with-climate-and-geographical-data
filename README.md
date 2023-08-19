@@ -19,7 +19,7 @@ Present a collection of functions and processes representing a very common workf
 
    * Point of interest
      
-     ![](folium_maps/point_of_interest.gif) 
+    ![](folium_maps/point_of_interest.gif) 
 
 5. Requests of climate data through API interaction.
 
