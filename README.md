@@ -18,6 +18,7 @@ Present a collection of functions and processes representing a very common workf
 3. Map display with folium: point of interest selection (PI) and closest stations (CS):
 
    * Point of interest
+     
      ![](folium_maps/point_of_interest.gif) 
 
 5. Requests of climate data through API interaction.
