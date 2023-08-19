@@ -1,4 +1,4 @@
-# Small-data-project-with-climate-and-geographical-data
+# Small Data Project with Geographic and Climate Data
 Data science project
 
 In this notebook, an evaluation of climate data will be carried out from the database of the Spanish Meteorological Agency, [AEMET](https://www.aemet.es/es/datos_abiertos), specifically a time series of precipitation and temperature provided by this entity and coming from any of the active meteorological stations closest to a certain point or point of interest. 
@@ -17,11 +17,11 @@ Present a collection of functions and processes representing a very common workf
 
 3. Map display with folium: point of interest selection (PI) and closest station (CS):
 
-   * Point of interest
+   * Point of interest (PI)
      
     ![](folium_maps/point_of_interest.gif)
 
-    * Closest station
+    * Closest station (PI)
      
     ![](folium_maps/all_geo_elements.gif) 
 
@@ -35,5 +35,4 @@ Present a collection of functions and processes representing a very common workf
 
 9. Conclusions
 
-* **NOTE**: github does not allow html display, as jupyter notebooks are hosted as an static file in git repos. Nevertheless in this repository you'll find the html files for the two maps (point_of_interest.html, with the initial point of interest, and all_geo_elements.html, with the closest station and the rest geographical elements calculated through the previous steps) and an interactive version of the jupyter notebook hosted in binder:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Data_Science_proj_Small-data-project-with-climate-and-geographical-data/master?labpath=Small%20data%20project%20with%20climate%20and%20geographical%20data.ipynb)
+* **NOTE**: github does not allow html display, as jupyter notebooks are hosted as an static file in git repos. Nevertheless in this repository you'll find the html files for the two maps (point_of_interest.html, with the initial point of interest, and all_geo_elements.html, with the closest station and the rest geographical elements calculated through the previous steps) and an interactive version of the jupyter notebook hosted in binder, to run the notebook click in: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SalvaRGb/Data_Science_proj_Small-data-project-with-climate-and-geographical-data/master?labpath=Small%20data%20project%20with%20climate%20and%20geographical%20data.ipynb)
